@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rlarvspgex410puh?svg=true)](https://ci.appveyor.com/project/DmBer77/2-1-testing-api)
